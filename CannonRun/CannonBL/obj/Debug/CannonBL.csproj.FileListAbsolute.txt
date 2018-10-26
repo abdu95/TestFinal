@@ -1,0 +1,6 @@
+D:\Users\Lecturer\source\repos\CannonRun\CannonBL\bin\Debug\CannonBL.dll
+D:\Users\Lecturer\source\repos\CannonRun\CannonBL\bin\Debug\CannonBL.pdb
+D:\Users\Lecturer\source\repos\CannonRun\CannonBL\obj\Debug\CannonBL.csproj.CoreCompileInputs.cache
+D:\Users\Lecturer\source\repos\CannonRun\CannonBL\obj\Debug\CannonBL.dll
+D:\Users\Lecturer\source\repos\CannonRun\CannonBL\obj\Debug\CannonBL.pdb
+D:\Users\Lecturer\source\repos\CannonRun\CannonBL\obj\Debug\CannonBL.csprojAssemblyReference.cache

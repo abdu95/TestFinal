@@ -1,0 +1,10 @@
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\bin\Debug\CannonRun.exe.config
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\bin\Debug\CannonRun.exe
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\bin\Debug\CannonRun.pdb
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\obj\Debug\CannonRun.csprojAssemblyReference.cache
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\obj\Debug\CannonRun.csproj.CoreCompileInputs.cache
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\obj\Debug\CannonRun.exe
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\obj\Debug\CannonRun.pdb
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\bin\Debug\CannonBL.dll
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\bin\Debug\CannonBL.pdb
+D:\Users\Lecturer\source\repos\CannonRun\CannonRun\obj\Debug\CannonRun.csproj.CopyComplete
